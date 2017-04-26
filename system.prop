@@ -105,9 +105,9 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 ro.product.model.platform=1
 
 # Hardware Info
-ro.device.chipset=Qualcomm MSM8916 Snapdragon 410
-ro.device.cpu=Quad-core 1.2 GHz Cortex-A53
+ro.device.chipset=Qualcomm Snapdragon 410 MSM8916
+ro.device.cpu=1.2GHz quad-core Cortex-A53
 ro.device.gpu=Adreno 306
 ro.device.rear_cam=8 MP 
 ro.device.front_cam=2 MP
-ro.device.screen_res=800x1280
+ro.device.screen_res=1280x800
